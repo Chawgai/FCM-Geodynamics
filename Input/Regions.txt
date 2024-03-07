@@ -1,0 +1,7 @@
+61.20	28.00	14,7,black	110	LB	Sistan Suture
+64.00	24.50	14,7,black	00	LB	Trench 
+63.00	26.20	14,7,black	00	LB	Acceretionary Wedge 
+65.50	27.00	14,7,black	90	LB	Triple Junction
+62.50	28.70	14,7,black	00	LB	Afghan Block
+60.20	27.80	14,7,black	90	LB	Lut Block
+64.00	23.50	14,7,black	00	LB	Murray Ridge

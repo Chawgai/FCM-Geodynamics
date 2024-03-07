@@ -1,0 +1,12 @@
+71.20 33.65 10,7,black 00 LB Main Boundary Thrust (MBT)
+72.90 33.75 10,7,black 20 LB Murre Fault (MBT)
+71.60 33.09 10,7,black 280 LB Kalabagh Fault
+72.60 32.57 10,7,black 15 LB Salt Range Thrust
+73.70 33.85 10,7,black 290 LB Himalayan Frontal Thrust
+73.55 33.40 10,7,black 85 LB Jehlum Fault
+73.15 33.43 10,7,black 45 LB Riwat Fault
+72.30 33.88 10,7,black 00 LB Punjal Thrust
+72.45 33.42 10,7,black 15 LB Khauri Murat Fault
+71.10 32.95 10,7,black 15 LB Surghar Fault
+71.15 32.25 10,7,black 70 LB Khisor Range Fault
+71.10 33.13 10,7,black 15 LB Karak Thrust
